@@ -1,0 +1,26 @@
+1-1. 음계 판별하기	https://www.acmicpc.net/problem/2920
+1-4. 평균은 넘겠지	https://www.acmicpc.net/problem/4344
+1-7. 블라인드	https://www.acmicpc.net/problem/2799
+1-10. 농구 경기	https://www.acmicpc.net/problem/1159
+2-1. 비밀번호 발음하기	https://www.acmicpc.net/problem/4659
+2-2. OX퀴즈	https://www.acmicpc.net/problem/8958
+2-4. 다이얼	https://www.acmicpc.net/problem/5622
+2-5. 단어 공부	https://www.acmicpc.net/problem/1157
+2-6. 그룹 단어 체커	https://www.acmicpc.net/problem/1316
+3-2. 열개씩 끊어 출력하기	https://www.acmicpc.net/problem/11721
+3-3. 카이사르 암호	https://www.acmicpc.net/problem/5598
+3-4. 문문문	https://www.acmicpc.net/problem/17210
+3-5. 좋은 날 싫은 날	https://www.acmicpc.net/problem/17211
+3-9. 아기 석환 뚜루루 뚜루	https://www.acmicpc.net/problem/15947
+4-1. 나는 요리사다	https://www.acmicpc.net/problem/2953
+4-2. 큰 수 A+B	https://www.acmicpc.net/problem/10757
+4-3. 나머지	https://www.acmicpc.net/problem/3052
+4-4. 부녀회장이 될테야	https://www.acmicpc.net/problem/2775
+4-8. 손익분기점	https://www.acmicpc.net/problem/1712
+4-9. 날짜 계산	https://www.acmicpc.net/problem/1476
+4-10. 피보나치 수의 개수	https://www.acmicpc.net/problem/6571
+5-1. 초콜릿 자르기	https://www.acmicpc.net/problem/2163
+5-2. 화성 수학	https://www.acmicpc.net/problem/5355
+5-7. 크로아티아 알파벳	https://www.acmicpc.net/problem/2941
+
+
