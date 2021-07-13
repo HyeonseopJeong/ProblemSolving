@@ -1,0 +1,25 @@
+6-1. 카드2	https://www.acmicpc.net/problem/2164
+6-2. 요세푸스 문제 0	https://www.acmicpc.net/problem/11866
+6-5. 중복 빼고 정렬하기	https://www.acmicpc.net/problem/10867
+6-6. 시리얼 번호	https://www.acmicpc.net/problem/1431
+6-9. 볼링 점수 계산	https://www.acmicpc.net/problem/17215
+6-10. 서로 다른 부분 문자열의 개수	https://www.acmicpc.net/problem/11478
+7-1. 나이순 정렬	https://www.acmicpc.net/problem/10814
+7-2. 숫자 놀이	https://www.acmicpc.net/problem/1755
+7-4. 접미사 배열	https://www.acmicpc.net/problem/11656
+7-5. 소트인사이드	https://www.acmicpc.net/problem/1427
+7-6. 좌표 정렬하기	https://www.acmicpc.net/problem/11650
+7-7. K번째 수	https://www.acmicpc.net/problem/11004
+8-7. 수 찾기	https://www.acmicpc.net/problem/1920
+8-8. 빠른 A+B	https://www.acmicpc.net/problem/15552
+8-9. 백설 공주와 일곱 난쟁이	https://www.acmicpc.net/problem/3040
+8-10. 삼각김밥	https://www.acmicpc.net/problem/2783
+9-1. 이진 검색 트리	https://www.acmicpc.net/problem/5639
+9-5. 적록색약	https://www.acmicpc.net/problem/10026
+9-6. 숫자판 점프	https://www.acmicpc.net/problem/2210
+9-7. 직각삼각형	https://www.acmicpc.net/problem/3000
+9-8. 리모컨	https://www.acmicpc.net/problem/1107
+9-9. 벌집	https://www.acmicpc.net/problem/2292
+9-10. 설탕 배달	https://www.acmicpc.net/problem/2839
+10-8. 과일 서리	https://www.acmicpc.net/problem/17213
+10-9. 다항 함수의 적분	https://www.acmicpc.net/problem/17214
